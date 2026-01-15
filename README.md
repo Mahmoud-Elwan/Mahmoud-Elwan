@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Mahmoud-Elwan
-- 👀 I’m interested in ... Leaning programming 
-- 🌱 I’m currently learning ... Communications Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... melwan4620@gmail.com
+Hi, I’m @Mahmoud-Elwan
+I'm an electronics and communication engineer.
+I'm interested in IC design, automation and scripting.
 
 <!---
 Mahmoud-Elwan/Mahmoud-Elwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
